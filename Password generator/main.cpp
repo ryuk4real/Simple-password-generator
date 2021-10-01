@@ -46,7 +46,7 @@ int main(){
 
 void PrintMenu(){
 
-    cout<<"____________________________________                                "<<endl;
+    cout<<"____________________________________"<<endl;
     cout<<"| Password generator by @ryuk4real |"<<endl;
     
     cout<<"Send the number to select a command: "<<endl;
