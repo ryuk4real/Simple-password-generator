@@ -1,5 +1,5 @@
 /*
-    This program let you generate a random password password
+    This program let you generate a random password
 */
 
 #include <iostream>
@@ -46,8 +46,8 @@ int main(){
 
 void PrintMenu(){
 
-    cout<<"                                "<<endl;
-    cout<<"Password generator by @ryuk4real"<<endl;
+    cout<<"____________________________________                                "<<endl;
+    cout<<"| Password generator by @ryuk4real |"<<endl;
     
     cout<<"Send the number to select a command: "<<endl;
     cout<<"1 - generate random password"<<endl;
