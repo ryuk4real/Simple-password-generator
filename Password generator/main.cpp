@@ -1,5 +1,5 @@
 /*
-    This program let you generate a random password
+    This program let you generate a random password.
 */
 
 #include <iostream>
